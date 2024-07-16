@@ -2,9 +2,9 @@
 
 ## 1. Clone The Project
 
-    ```bash
-        git clone https://github.com/ign-ace/ss_assignment
-    ```
+```bash
+  git clone https://github.com/ign-ace/ss_assignment
+```
 
 ## 2. Install
 
