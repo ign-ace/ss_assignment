@@ -1,12 +1,18 @@
 ## Setup The Project
 
-## 1. Install
+## 1. Clone The Project
+
+    ```bash
+        git clone https://github.com/ign-ace/ss_assignment
+    ```
+
+## 2. Install
 
 ```bash
     npm i
 ```
 
-## 2. Setup the env as the given DEMO env
+## 3. Setup the env as the given DEMO env
 
 ```http
     PORT = 3000
@@ -22,7 +28,7 @@ Here I used the PostgreSQL feature to get a cloud deployed DB by PostgreSQL
 
 All the above keys were provided by it and you can use third-party service like I used TablePlus to view my tables.
 
-## 3 . Run the Project
+## 4. Run the Project
 
 ```http
     npm run dev
